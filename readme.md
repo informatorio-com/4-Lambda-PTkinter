@@ -2,7 +2,7 @@
 
 Proyecto en Python con Tkinter que permite convertir unidades de **longitud**, **temperatura**, **masa** y **tiempo**.
 
-··Objetivo
+#Objetivo
 
 Este proyecto fue realizado como práctica grupal para aprender a:
 - Usar Tkinter para crear interfaces gráficas.
@@ -10,7 +10,7 @@ Este proyecto fue realizado como práctica grupal para aprender a:
 - Trabajar en equipo con Git y GitHub.
 - Aplicar lógica de conversión de unidades.
 
-··Funcionalidades
+#Funcionalidades
 
 - Conversión de **longitud** (metros, kilómetros, pies, pulgadas, etc.)
 - Conversión de **temperatura** (Celsius, Fahrenheit, Kelvin)
@@ -19,6 +19,6 @@ Este proyecto fue realizado como práctica grupal para aprender a:
 
 Integrantes del grupo
 
-Ervetto	Leonardo - Módulo de masa, longitud y armado del proyecto.
-Acosta Cesar Gustavo - Módulo de tiempo, temperatura y correciones del proyecto.
+- Ervetto	Leonardo - Módulo de masa, longitud y armado del proyecto.
+- Acosta Cesar Gustavo - Módulo de tiempo, temperatura y correciones del proyecto.
 
