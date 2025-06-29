@@ -1,5 +1,8 @@
 import tkinter as tk
-# Definimos un diccionario con las conversiones de longitud
+
+
+
+
 conversiones_longitud = {
     "metros": 1.0,
     "kilómetros": 1000.0,
@@ -29,8 +32,7 @@ def abrir_ventana():
     ventana = tk.Toplevel()
     ventana.title("Conversión de Longitud")
     ventana.geometry("300x420")
-    ventana.configure()  
-    
+
 
     tk.Label(ventana, text="Conversión de Longitud", font=("Arial", 14)).pack(pady=10)
     tk.Label(ventana, text="Valor:").pack(pady=5)

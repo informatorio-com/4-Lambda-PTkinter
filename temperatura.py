@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 # definimos la ventana Toplevel()...
-def abrir_ventana():
+def abrir_ventana_temp():
     ventana = tk.Toplevel()
     ventana.title("Conversión de Temperatura")
     ventana.geometry("300x300")
@@ -40,6 +40,3 @@ def abrir_ventana():
     ttk.Button(ventana, text="Convertir a Kelvin", command=convertir_a_kelvin).pack(pady=5) # botón convertidor de °C a °K...
     ttk.Button(ventana, text="Borrar", command=borrar).pack(pady=5) # botón de borrar...
     ttk.Button(ventana, text="Salir", command=ventana.destroy).pack(pady=5) # botón de salir...
-
-if __name__ == "__main__":
-    abrir_ventana()
