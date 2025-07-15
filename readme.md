@@ -17,8 +17,3 @@ Este proyecto fue realizado como práctica grupal para aprender a:
 - Conversión de **masa** (gramos, kilos, libras, etc.)
 - Conversión de **tiempo** (segundos, minutos, horas, días)
 
-Integrantes del grupo
-
-- Ervetto	Leonardo - Módulo de masa, longitud y armado del proyecto.
-- Acosta Cesar Gustavo - Módulo de tiempo, temperatura y correciones del proyecto.
-
